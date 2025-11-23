@@ -2,4 +2,7 @@
 venv-accounting/
 
 # Data files
-invoices.csv
+data/
+
+# others
+assist/
