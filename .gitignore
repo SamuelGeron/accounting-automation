@@ -6,3 +6,4 @@ data/
 
 # others
 assist/
+__pycache__/
